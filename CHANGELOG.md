@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/intradoc/core/compare/v2.0.0...v2.1.0) (2023-04-12)
+
+
+### Features
+
+* trigger release ([150097c](https://github.com/intradoc/core/commit/150097c7907347acbf1cbc8da2b101c66bbc0e1c))
+
 # [2.0.0](https://github.com/intradoc/core/compare/v1.0.0...v2.0.0) (2023-04-12)
 
 
