@@ -1,4 +1,3 @@
-
 /** @type {import('semantic-release').Options} */
 module.exports = {
   branches: [
@@ -22,8 +21,8 @@ module.exports = {
         'CHANGELOG*',
       ],
     }],
-    // ['@semantic-release/npm', {
-    //   pkgRoot: '.dist',
-    // }],
+    ['@semantic-release/npm', {
+      pkgRoot: '.dist',
+    }],
   ],
 }
